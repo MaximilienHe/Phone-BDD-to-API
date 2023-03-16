@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 - Cloner le repository depuis GitHub.
 - Installer Node.js et npm.
@@ -6,12 +6,12 @@
 - Installer les dépendances avec la commande : npm install
 
 
-#Configuration
+# Configuration
 
 Aller dans le fichier config.js et configurer la connexion à la base de données avec les informations de votre propre base de données.
 
 
-#Utilisation
+# Utilisation
 
 - Ouvrir un terminal dans le dossier cloné.
 - Lancer le serveur avec la commande : node app.js
@@ -62,6 +62,6 @@ Cette route renvoie tous les détails du téléphone dont le titre est spécifi�
 Exemple : http://localhost:3000/devicesDetail/galaxy%20s21%20ultra
 
 
-#Arrêt
+# Arrêt
 
 Pour arrêter le serveur, utiliser le raccourci Ctrl+C dans le terminal où le serveur est en cours d'exécution.
